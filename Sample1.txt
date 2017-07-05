@@ -1,0 +1,4 @@
+add加入
+commit提交
+pull取得遠端
+push推送
